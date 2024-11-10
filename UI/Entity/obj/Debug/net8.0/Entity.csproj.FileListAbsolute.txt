@@ -1,0 +1,11 @@
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\bin\Debug\net8.0\Entity.deps.json
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\bin\Debug\net8.0\Entity.dll
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\bin\Debug\net8.0\Entity.pdb
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.dll
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\refint\Entity.dll
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\Entity.pdb
+E:\OneDrive\Mi UAI\14 - Lenguajes de Ultima Generacion\Primer_Parcial_LUG_2B_Terrile_Victor\UI\Entity\obj\Debug\net8.0\ref\Entity.dll
